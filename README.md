@@ -1,1 +1,1 @@
-a script that switches the current user
+0. My name is Betty
